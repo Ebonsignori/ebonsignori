@@ -1,3 +1,3 @@
-### 👀 &nbsp; [![View "counter"](https://komarev.com/ghpvc/?username=ebonsignori&label=Profile%20%22Views%22&color=6cc644)](https://github.com/antonkomarev/github-profile-views-counter) &nbsp; 👀
-
-_count is not completely accurate it simply increments when loaded, but it's fun to think otherwise 🙃_
+Essential reading,
+- [Why you should work asynchronously](https://ben.balter.com/2022/03/17/why-async/)
+- [Remote work requires communicating more, less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
