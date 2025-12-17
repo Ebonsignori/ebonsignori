@@ -6,20 +6,20 @@ In my dream world, I play piano for a living and code on the side for fun, but t
 
 I'm on track to release solo piano originals in 2026. Below is the coding I do for fun.
 
-### Obsidian plugins
+## Obsidian plugins
 
 - [obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) Adds the ability to generate markdown links to other documents using symbols, like `@ebonsignori`.
 - [obsidian-auto-journal](https://github.com/Ebonsignori/obsidian-auto-journal) Automatically creates daily or monthly journal pages following an opinionated file structure.
 - [obsidian-timeline-schedule](https://github.com/Ebonsignori/obsidian-timeline-schedule) Generates inline timelines from human-readable strings. e.g. 'Walk dog (30m)' would show up 30 minutes past a specified start time.  
 
-### GH CLI extensions
+## GH CLI extensions
 
 - [gh-search-docs](https://github.com/Ebonsignori/gh-search-docs) Search GitHub Docs articles from your terminal.
 - [gh-ask-docs](https://github.com/Ebonsignori/gh-ask-docs) Ask the GitHub Docs LLM (RAG app) questions about GitHub from your terminal.
 
-### Websites & apps
+## Websites & apps
 
-#### [Income Tax Calculator](https://ebonsignori.github.io/income-tax-calculator/)
+### [Income Tax Calculator](https://ebonsignori.github.io/income-tax-calculator/)
 
 **Repo**: [Income Tax Calculator](https://github.com/Ebonsignori/income-tax-calculator)
  
@@ -39,7 +39,7 @@ Private repo, using [React-pdf](https://react-pdf.org/) to generate a resume. Th
 
 Private repo. Before the era of LLMs, I attempted to make a web app for relative pitch training (playing music "by ear"). It's functional, but highly unpolished. I put it down when I discovered [Chet](https://apps.apple.com/us/app/chet-ear-training/id1405525467) for IOS since it met most of my needs. 
 
-### Other random projects
+## Other projects
 
 - [water-plant-uml](https://github.com/Ebonsignori/water-plant-uml?tab=readme-ov-file) CLI tool for live-reloading and/or exporting PlantUML diagrams using the default PlantUML server or a local Docker server.
 - [tts-book-to-audio](https://github.com/Ebonsignori/tts-book-to-audio) A janky set of tools for putting together an audiobook from text using AI TTS models.
