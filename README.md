@@ -8,7 +8,7 @@ I'm on track to release solo piano originals in 2026. Below is the coding I do f
 
 ## Obsidian plugins
 
-- [obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) Adds the ability to generate markdown links to other documents using symbols, like `@ebonsignori`.
+- [obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking) Adds the ability to generate markdown links to other documents using symbols like `@`.
 - [obsidian-auto-journal](https://github.com/Ebonsignori/obsidian-auto-journal) Automatically creates daily or monthly journal pages following an opinionated file structure.
 - [obsidian-timeline-schedule](https://github.com/Ebonsignori/obsidian-timeline-schedule) Generates inline timelines from human-readable strings. e.g. 'Walk dog (30m)' would show up 30 minutes past a specified start time.  
 
@@ -37,11 +37,11 @@ Private repo, using [React-pdf](https://react-pdf.org/) to generate a resume. Th
 
 ### [ear.tools](https://ear.tools/)
 
-Private repo. Before the era of LLMs, I attempted to make a web app for relative pitch training (playing music "by ear"). It's functional, but highly unpolished. I put it down when I discovered [Chet](https://apps.apple.com/us/app/chet-ear-training/id1405525467) for IOS since it met most of my needs. 
+Private repo. Before the era of LLMs, I attempted to make a web app for relative pitch training (playing music "by ear"). It's functional, but highly unpolished. I put it down when I discovered [Chet](https://apps.apple.com/us/app/chet-ear-training/id1405525467) for IOS since it met my training needs. 
 
 ## Other projects
 
-- [water-plant-uml](https://github.com/Ebonsignori/water-plant-uml?tab=readme-ov-file) CLI tool for live-reloading and/or exporting PlantUML diagrams using the default PlantUML server or a local Docker server.
-- [tts-book-to-audio](https://github.com/Ebonsignori/tts-book-to-audio) A janky set of tools for putting together an audiobook from text using AI TTS models.
+- [water-plant-uml](https://github.com/Ebonsignori/water-plant-uml?tab=readme-ov-file) CLI tool for live-reloading and/or exporting PlantUML diagrams.
+- [tts-book-to-audio](https://github.com/Ebonsignori/tts-book-to-audio) A clunky set of tools for putting together an audiobook from text using AI TTS models. Each character in a novel can be given a different voice.
 - [stormlight-coppermind-summaries](https://github.com/Ebonsignori/stormlight-coppermind-summaries) Similar to the above, a set of audiobooks generated from the [Wiki summaries](https://coppermind.net/wiki/The_Stormlight_Archive/Summary) for The Stormlight Archives series by Brandon Sanderson. 
-- [myconfig](https://github.com/Ebonsignori/myconfig) My dotfiles. Had more activity when I was still exclusively using Vim. 
+- [myconfig](https://github.com/Ebonsignori/myconfig) My dotfiles. The repo had more activity when I was exclusively using Vim. I've caved. VSCode is good enough and I don't spend hours each month configuring it 🪦
