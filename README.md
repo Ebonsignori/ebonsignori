@@ -19,7 +19,7 @@ I'm on track to release solo piano originals in 2026. Below is the coding I do f
 
 ## Websites & apps
 
-### [Income Tax Calculator](https://ebonsignori.github.io/income-tax-calculator/)
+### [income-tax.org](https://income-tax.org)
 
 **Repo**: [Income Tax Calculator](https://github.com/Ebonsignori/income-tax-calculator)
  
